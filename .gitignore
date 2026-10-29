@@ -1,0 +1,6 @@
+.godot/
+test-output/
+
+# Export builds and logs
+build/
+*.log

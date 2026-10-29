@@ -1,0 +1,13 @@
+{
+  "source_run": "sprite-workspace/runs/medic_directional_v1/assembled",
+  "sprite_gen": {
+    "repository": "https://github.com/aldegad/sprite-gen",
+    "commit": "59b2738a2e76ed7043d9691a230396ed6374a336",
+    "version": "2.45.3",
+    "license": "Apache-2.0",
+    "python": ">=3.11",
+    "generation_enabled": false,
+    "reason": "Prior image-generation approval was exhausted; foundation setup is offline only."
+  },
+  "static_reference_only": false
+}

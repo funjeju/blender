@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "base_accepted": true,
+  "motion_verified": true,
+  "reviewed_states": [
+    "idle",
+    "walk"
+  ],
+  "reviewer": "Codex visual frame review, followed by engine playback validation",
+  "notes": [
+    "Existing medic identity retained in a new screen-right elevated side-view interpretation.",
+    "Idle: four distinct breathing drawings. Automated low-motion warning 0.0082 < 0.01 is retained and accepted for intentionally subtle idle, not suppressed.",
+    "Walk: use separately approved correction sheet. Contact and passing phases have different near/far leg overlap; outer trouser pocket is visible on the passing near thigh in frame 3 (zero-based). Four-frame animation is intentionally coarse.",
+    "Transparent cells, common 236px foot baseline, no missing limbs or cropping. Horizontal head drift reduced with reversible sprite-gen curation offsets; original PNGs preserved.",
+    "Only one right-facing view and two states. This is not an eight-direction game-ready animation set. Active game art is not replaced by publishing this preview pack."
+  ],
+  "engine_playback": "pending; see VALIDATION.md in published pack after verification",
+  "generation_calls": 2,
+  "approval_scopes": [
+    "initial sprite sheet: one call",
+    "walk correction: one additional call"
+  ],
+  "automatic_paid_fallback": false
+}

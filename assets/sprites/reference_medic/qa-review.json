@@ -1,0 +1,11 @@
+{
+  "status": "approved",
+  "mode": "static-reference",
+  "motion_verified": false,
+  "base_accepted": false,
+  "reviewed_states": [
+    "north_idle",
+    "south_idle"
+  ],
+  "notes": "Existing artwork extraction/engine wiring fixture only. Each direction has ONE still frame; no new animation was generated or certified."
+}

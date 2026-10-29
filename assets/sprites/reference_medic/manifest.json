@@ -1,0 +1,78 @@
+{
+  "characterId": ".reference_medic.sg-staging",
+  "engine": "component-row",
+  "game_input": "sprite-sheet-alpha.png",
+  "degraded_static_fallback": false,
+  "curation_applied": false,
+  "frame_variant": "pixel",
+  "sprite_sheet_alpha": "sprite-sheet-alpha.png",
+  "sprite_sheet_alpha_report": "sprite-sheet-alpha.report.json",
+  "base_image": null,
+  "cell": {
+    "shape": "square",
+    "width": 256,
+    "height": 256,
+    "size": 256,
+    "safe_margin": 0
+  },
+  "chroma_key": {
+    "name": "magenta",
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ]
+  },
+  "animation": {
+    "cellWidth": 256,
+    "cellHeight": 256,
+    "columns": 1,
+    "rows": {
+      "north_idle": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2,
+        "durations_ms": [
+          500
+        ],
+        "loop": false,
+        "frame_variant": "pixel"
+      },
+      "south_idle": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2,
+        "durations_ms": [
+          500
+        ],
+        "loop": false,
+        "frame_variant": "pixel"
+      }
+    }
+  },
+  "frame_layout": {
+    "sheetWidth": 256,
+    "sheetHeight": 512,
+    "cellWidth": 256,
+    "cellHeight": 256,
+    "rows": {
+      "north_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        }
+      ],
+      "south_idle": [
+        {
+          "x": 0,
+          "y": 256,
+          "w": 256,
+          "h": 256
+        }
+      ]
+    }
+  }
+}

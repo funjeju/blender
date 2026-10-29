@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "base_accepted": true,
+  "motion_verified": true,
+  "reviewed_states": [
+    "east_idle",
+    "east_walk",
+    "north_idle",
+    "north_walk",
+    "south_idle",
+    "south_walk"
+  ],
+  "notes": [
+    "Visual review of separate south/front and north/back sheets; head stays above feet.",
+    "Four-frame loops, deliberately subtle idle, coarse stride; original generation art retained.",
+    "East uses previously reviewed side cycle. West is horizontal reflection only, never vertical reflection.",
+    "Gameplay direction and render orientation are separately validated in tests/medic_game.gd."
+  ],
+  "generation_approval": "Two additional calls, front and back, each one sheet; explicitly approved by user on 2026-10-23",
+  "generation_calls_this_scope": 2,
+  "automatic_retry": false
+}

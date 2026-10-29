@@ -1,0 +1,250 @@
+{
+  "provenance": "Original local NumPy synthesis; no AI or sample libraries, no network.",
+  "rate": 48000,
+  "channels": 1,
+  "bits": 16,
+  "events": {
+    "shoot": [
+      {
+        "file": "shoot_0.wav",
+        "seconds": 0.12,
+        "peak": 0.65,
+        "sha256": "daed66835a90521e6a318b29c768b57af94d6f728f0a3ecd2ee41397dea92d4d"
+      },
+      {
+        "file": "shoot_1.wav",
+        "seconds": 0.12,
+        "peak": 0.65,
+        "sha256": "f97019d15b80789c0967627b0c3035cbafd71ce64b4a2a3468b099d5f098a15d"
+      },
+      {
+        "file": "shoot_2.wav",
+        "seconds": 0.12,
+        "peak": 0.65,
+        "sha256": "58ce035a02e955ca211523dd8a7063627c1763ace97dd4d2e6b42abecb87ef44"
+      }
+    ],
+    "impact": [
+      {
+        "file": "impact_0.wav",
+        "seconds": 0.16,
+        "peak": 0.65,
+        "sha256": "34bf994ce3383f78246000c58a600120de7ea6f058540c0a46422836d4ba4b72"
+      },
+      {
+        "file": "impact_1.wav",
+        "seconds": 0.16,
+        "peak": 0.65,
+        "sha256": "317a886accd3294a8f0a238a26a07d206ec32db02056fea59e603ea74c9af7e2"
+      },
+      {
+        "file": "impact_2.wav",
+        "seconds": 0.16,
+        "peak": 0.65,
+        "sha256": "7723f2075f1a0d0c11361056e915db9e492150e23c0118e3c56e02e651b0e480"
+      }
+    ],
+    "enemy_down": [
+      {
+        "file": "enemy_down_0.wav",
+        "seconds": 0.28,
+        "peak": 0.65,
+        "sha256": "13818d51720d4d5fa6a72c9094e9df2d2af6a479bb3a1b0ac1842c6e3e97b88a"
+      },
+      {
+        "file": "enemy_down_1.wav",
+        "seconds": 0.28,
+        "peak": 0.65,
+        "sha256": "3b3a9e09f607ac3f725739e4e68cb6c0ed2f36f9d203e0de31130d65c2c01ded"
+      }
+    ],
+    "player_hit": [
+      {
+        "file": "player_hit_0.wav",
+        "seconds": 0.24,
+        "peak": 0.65,
+        "sha256": "f134b1a9fddea03e78ea84bccb8ecb491a656942a48d36628dc20b781fe37364"
+      },
+      {
+        "file": "player_hit_1.wav",
+        "seconds": 0.24,
+        "peak": 0.65,
+        "sha256": "4994e8ce4fb0731610a67a109a4478597cd9957d3f76809afcf7679fe83f0f77"
+      }
+    ],
+    "pickup": [
+      {
+        "file": "pickup_0.wav",
+        "seconds": 0.09,
+        "peak": 0.65,
+        "sha256": "0813379030e7f7918d47045e6adfde862d36842bf8782db5c1fcdfabac0d5571"
+      },
+      {
+        "file": "pickup_1.wav",
+        "seconds": 0.09,
+        "peak": 0.65,
+        "sha256": "7f2cced978795ea2fd4a69ad252c0755a3ad98e681d0bd6e4f50527a9177ed17"
+      },
+      {
+        "file": "pickup_2.wav",
+        "seconds": 0.09,
+        "peak": 0.65,
+        "sha256": "44765d78154313bf17e3c884cf24c42905a40fdfd8f11b80b54a3c7f2b180325"
+      },
+      {
+        "file": "pickup_3.wav",
+        "seconds": 0.09,
+        "peak": 0.65,
+        "sha256": "7a884ec4318397f0e61c9e941881defa8497d2c38a02f837ec9423190e3d4d0d"
+      }
+    ],
+    "level": [
+      {
+        "file": "level_0.wav",
+        "seconds": 0.75,
+        "peak": 0.65,
+        "sha256": "3705ae72bbb46a755240c364af0262e6d2842b470a0532044e180c5719b4a6e6"
+      }
+    ],
+    "pulse": [
+      {
+        "file": "pulse_0.wav",
+        "seconds": 0.65,
+        "peak": 0.65,
+        "sha256": "b234b0dea20cdfe75445bbaabde5f621867770c97ca119b81a30cb61d72cf47a"
+      }
+    ],
+    "elite_warning": [
+      {
+        "file": "elite_warning_0.wav",
+        "seconds": 0.85,
+        "peak": 0.65,
+        "sha256": "a2f23bb11267dbe8f72c2e12ddb1b80e29a6594261f33f52c32eacf2f8b10b29"
+      }
+    ],
+    "charge_warning": [
+      {
+        "file": "charge_warning_0.wav",
+        "seconds": 0.95,
+        "peak": 0.65,
+        "sha256": "31149b1d7ebe428aaa5856634230e2939effeb85abf6505509bd6de977db3303"
+      }
+    ],
+    "boss_slam_warning": [
+      {
+        "file": "boss_slam_warning_0.wav",
+        "seconds": 0.95,
+        "peak": 0.65,
+        "sha256": "fb4aecc621870ed94ece9b259ef1bf814b57c6b6a26be3700c9805e1fb6f7d72"
+      }
+    ],
+    "dash": [
+      {
+        "file": "dash_0.wav",
+        "seconds": 0.55,
+        "peak": 0.65,
+        "sha256": "bd4c38c32d84af01f6ce1ac0d04b8edb10803c474a2170745ff3de5a519f64cc"
+      }
+    ],
+    "slam": [
+      {
+        "file": "slam_0.wav",
+        "seconds": 0.36,
+        "peak": 0.65,
+        "sha256": "3a8f1768ae02ac092a230f2ce88e13e376b6006329c3ef890670b36214476c08"
+      }
+    ],
+    "enrage": [
+      {
+        "file": "enrage_0.wav",
+        "seconds": 1.1,
+        "peak": 0.65,
+        "sha256": "dfdc0f7e1ced82203a8b4c684d822fbab4140cc50c225335ffdbce65f0e2bb11"
+      }
+    ],
+    "boss_intro": [
+      {
+        "file": "boss_intro_0.wav",
+        "seconds": 1.2,
+        "peak": 0.65,
+        "sha256": "7678e823184f723c121909fd3a1fc9324f37334bb92a053752b0732b6cedc7c3"
+      }
+    ],
+    "stage_clear": [
+      {
+        "file": "stage_clear_0.wav",
+        "seconds": 1.25,
+        "peak": 0.65,
+        "sha256": "615803292e519a4a36d681823b8f32139dcb2f6fe61216c7e75876f58d1ab420"
+      }
+    ],
+    "victory": [
+      {
+        "file": "victory_0.wav",
+        "seconds": 1.8,
+        "peak": 0.65,
+        "sha256": "21c62e2c92bdb74f2fb64f067c3029ab8844f5df97ffbab002b81f3e6f65c4bc"
+      }
+    ],
+    "loss": [
+      {
+        "file": "loss_0.wav",
+        "seconds": 1.1,
+        "peak": 0.65,
+        "sha256": "f5b8bc953559dd0af69637bdd8931584fb703f674b74033779acb4c9def96ea7"
+      }
+    ],
+    "ui": [
+      {
+        "file": "ui_0.wav",
+        "seconds": 0.08,
+        "peak": 0.65,
+        "sha256": "f004b33b1299673c3f11ddff141b50d53e955dca67bd8ee6df7c676f48736006"
+      }
+    ],
+    "start": [
+      {
+        "file": "start_0.wav",
+        "seconds": 0.32,
+        "peak": 0.65,
+        "sha256": "d179d12223b76e464846cccd15c862e26fd5b4359f63ed38cd1475b6d8327267"
+      }
+    ],
+    "pause": [
+      {
+        "file": "pause_0.wav",
+        "seconds": 0.12,
+        "peak": 0.65,
+        "sha256": "6ace21e6bc13ccc33bace8022e81ea7190d0236b9231971f2face31b3ee13b41"
+      }
+    ],
+    "resume": [
+      {
+        "file": "resume_0.wav",
+        "seconds": 0.12,
+        "peak": 0.65,
+        "sha256": "78b81d3f1da15d7ab0a4899445e38a0e35e7e961923eb2cdcc70db8396a068c4"
+      }
+    ],
+    "step": [
+      {
+        "file": "step_0.wav",
+        "seconds": 0.1,
+        "peak": 0.65,
+        "sha256": "2902c24854da60405d2e81db075e1a0ec7517e0d2abd672d3314dac0250ca617"
+      },
+      {
+        "file": "step_1.wav",
+        "seconds": 0.1,
+        "peak": 0.65,
+        "sha256": "23168cf7f73f6aae58b08b9e10e8f7f69ff4fc0ca5788a84aab76f354815b58a"
+      },
+      {
+        "file": "step_2.wav",
+        "seconds": 0.1,
+        "peak": 0.65,
+        "sha256": "66f20782622ba8da7e18fa1258a7aa5e547af65fe25a46147273848fe2e7a596"
+      }
+    ]
+  }
+}
